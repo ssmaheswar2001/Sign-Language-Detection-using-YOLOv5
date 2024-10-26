@@ -1,5 +1,16 @@
 # Sign-Language-Detection-using-YOLOv5
 
+## Wordflows
+- Constants
+- config_entity
+- artifact_entity
+- Components
+- Pipeline : It will run the 
+    1. Data ingestion
+    2. Data validation
+    3. Model Trainer
+    4. Model pusher
+- Endpoint : app.py
 
 
 ## How to run :
