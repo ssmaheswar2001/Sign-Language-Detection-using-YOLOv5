@@ -1,6 +1,6 @@
 # Sign-Language-Detection-using-YOLOv5
 
-## Wordflows
+## Workflows
 - Constants
 - config_entity
 - artifact_entity
