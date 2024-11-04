@@ -41,7 +41,6 @@ class DataValidationConfig:
     required_file_list = DATA_VALIDATION_ALL_REQUIRED_FILES
 
 
-
 @dataclass
 class ModelTrainerConfig:
     model_trainer_dir: str = os.path.join(
@@ -53,10 +52,3 @@ class ModelTrainerConfig:
     no_epochs = MODEL_TRAINER_NO_EPOCHS
 
     batch_size = MODEL_TRAINER_BATCH_SIZE
-
-
-
-@dataclass
-class ModelPusherConfig:
-    BUCKET_NAME: str = BUCKET_NAME
-    S3_MODEL_KEY_PATH: str = S3_MODEL_NAME
