@@ -16,7 +16,7 @@
 ## How to run :
 
 ```bash
-conda create -n singlang python=3.7 -y
+conda create -n signlang python=3.7 -y
 ```
 
 ```bash
