@@ -16,7 +16,7 @@
 - ![alt text](Img/image-4.png)
 
 ## Statement 
-- The main point of this application is to use cameras to recognize gestures from the sign language to offer a new means of communication. The program will be able to transcribe gestures done by dump people into written words printed on the screen.
+- The main point of this application is to use cameras to recognize gestures from the sign language to offer a new means of communication. The program will be able to transcribe gestures done by dumb people into written words printed on the screen.
 
 ## Data Collection
 - Data Collection : Collected custom dataset of 2,244 training images and 213 validation images
